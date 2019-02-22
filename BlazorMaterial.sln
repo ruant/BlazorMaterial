@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3FB2A779-0CF7-4014-AFF3-AF1F1A199AB5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{AB696C70-0E67-450C-B975-82DFC8CDD9A7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{AB696C70-0E67-450C-B975-82DFC8CDD9A7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMaterial.Base", "src\BlazorMaterial.Base\BlazorMaterial.Base.csproj", "{E474734E-A050-4414-8B3F-364830D7E40C}"
 EndProject
@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMaterial.TopAppBar", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMaterial.Drawer", "src\BlazorMaterial.Drawer\BlazorMaterial.Drawer.csproj", "{65079F99-9F96-4DA9-84C9-CC8C67E02C65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorMaterial.Test", "test\BlazorMaterial.Test\BlazorMaterial.Test.csproj", "{51F248A8-76D3-4F94-BB74-B240E5A1CDF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMaterial.Demo", "demo\BlazorMaterial.Demo\BlazorMaterial.Demo.csproj", "{51F248A8-76D3-4F94-BB74-B240E5A1CDF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

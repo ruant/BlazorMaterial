@@ -1,6 +1,6 @@
-﻿using Microsoft.AspNetCore.Blazor.Hosting;
+using Microsoft.AspNetCore.Blazor.Hosting;
 
-namespace BlazorMaterial.Test
+namespace BlazorMaterial.Demo
 {
     public class Program
     {
